@@ -1,3 +1,5 @@
+(work in progress)
+
 # What is this?!
 ![Scary Eyes](images/seagull2.jpg)
 
@@ -14,3 +16,7 @@ If you’re reading this, you want to learn something that may be scary or intim
 ![Oreilly Books](images/oreilly_books.jpg)
 
 ![zoologist](images/zoologist.jpg)
+
+[Next](01.md)
+
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
