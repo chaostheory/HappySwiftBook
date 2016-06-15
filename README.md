@@ -19,5 +19,8 @@ If you’re reading this, you want to learn something that may be scary or intim
 
 [Next](01.md)
 
+
+Note: This isn't a very formal tutorial. There are plenty of great professional Swift docs. This documentation also doesn't target experienced programmers, since most existing Swift tutorials already target that demographic.
+
 ![creative commons](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
